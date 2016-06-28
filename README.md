@@ -1,0 +1,2 @@
+# Informatica
+ETL SMAPLE TRANSFORMTIONS
